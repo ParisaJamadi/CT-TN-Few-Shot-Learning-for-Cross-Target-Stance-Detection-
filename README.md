@@ -25,4 +25,4 @@ The BibTex of the citation is as follow:
    journal={IEEE Transactions on Computational Social Systems},
    year={2023},
    publisher={IEEE}
- }'''
+ }
