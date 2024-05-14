@@ -18,7 +18,8 @@ Please cite our paper and kindly give a star for this repository if you use this
 # Citation
 The BibTex of the citation is as follow:
 
-```@article{khiabani2023few,
+```
+@article{khiabani2023few,
    title={Few-shot learning for cross-target stance detection by aggregating multimodal embeddings},
    author={Khiabani, Parisa Jamadi and Zubiaga, Arkaitz},
    journal={IEEE Transactions on Computational Social Systems},
