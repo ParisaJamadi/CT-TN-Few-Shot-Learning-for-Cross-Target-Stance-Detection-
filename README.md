@@ -1,5 +1,4 @@
-  Introduction
-# CTTN-Few-Shot-Learning-for-Cross-Target-Stance-Detection
+#Introduction
 This repository was used in our paper:
 
 Few-Shot Learning for Cross-Target Stance Detection by Aggregating Multimodal Embeddings
