@@ -9,11 +9,11 @@ IEEE TRANSACTIONS ON COMPUTATIONAL SOCIAL SYSTEMS Journal 2023
 Please cite our paper and kindly give a star for this repository if you use this code.
 
 # Requirements
-- pytorch >= 0.4.0
-- numpy >= 1.13.3
-- sklearn
-- python 3.6 / 3.7
-- transformers
+- pytorch  2.2.1
+- numpy  1.26.4
+- sklearn  1.4.1
+- python 3.9.18
+- transformers  4.38.2
 
 # Citation
 The BibTex of the citation is as follow:
