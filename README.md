@@ -3,6 +3,7 @@
 This repository was used in our paper:
 
 **Few-Shot Learning for Cross-Target Stance Detection by Aggregating Multimodal Embeddings** (https://ieeexplore.ieee.org/document/10098547) 
+
 Parisa Jamadi Khiabani and Arkaitz Zubiaga.  
 IEEE TRANSACTIONS ON COMPUTATIONAL SOCIAL SYSTEMS Journal 2023
 
